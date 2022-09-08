@@ -9,6 +9,7 @@ The AboutMe app is a demo app that shows information about a person like:
 - An image
 - Scrollable information
 
+
 This app demonstrates the following views and techniques:
 - LinearLayout
 - TextView
