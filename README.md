@@ -11,7 +11,7 @@ The AboutMe app is a demo app that shows information about a person like:
 
 
 This app demonstrates the following views and techniques:
-- LinearLayout
+- LinearLayout (Vertical)
 - TextView
 - EditText
 - ImageView
